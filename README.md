@@ -1,2 +1,11 @@
 # mall-learn
 商城项目学习过程记录
+已学习并完成部分：
+整合SpringBoot+MyBatis搭建基本骨架
+整合Swagger-UI实现在线API文档
+整合Redis实现缓存功能
+整合SpringSecurity和JWT实现认证和授权
+整合Mongodb实现文档操作
+整合Elasticsearch实现商品搜索
+整合OSS实现文件上传
+
